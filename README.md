@@ -6,7 +6,7 @@ I worked as a part-time software engieer in previous job. I'm interested in full
 * 🌍  I'm based in Hong Kong
 * 🚀  I'm currently working on [a fullstack course](http://github.com/tyw05/FullStackOpen2023)
 * 🧠  I'm learning full stack web development
-* ⚡  I'm a guitar player (fingerstyle, pop, jazz, blues)
+
 
 ### Skills
 
