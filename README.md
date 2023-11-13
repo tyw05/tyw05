@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tim
 ===========================================================================================================================
 
-I worked as a part-time software engieer in previous job. I'm interested in fullstack web development, cloud management and programming.   
+I worked as a part-time software engieer in previous job. I'm interested in web development, cloud management and programming.   
 
 * 🌍  I'm based in Hong Kong
 * 🚀  I'm currently working on [a fullstack course](http://github.com/tyw05/FullStackOpen2023)
