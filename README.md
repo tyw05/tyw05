@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I worked as a part-time software engieer in previous job. I'm interested in web development, cloud management and programming.   
 
 * 🌍  I'm based in Hong Kong
-* 🚀  I'm currently working on [a fullstack course](http://github.com/tyw05/FullStackOpen2023)
-* 🧠  I'm learning full stack web development
+* 🚀  I'm currently working as a FrontEnd software engineer.
+* 🧠  I'm learning full stack web && mobile development
 
 
 ### Skills
